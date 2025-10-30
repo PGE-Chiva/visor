@@ -1,0 +1,8 @@
+var json_EspacioNaturalSimadelasPalomas_44 = {
+"type": "FeatureCollection",
+"name": "EspacioNaturalSimadelasPalomas_44",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "nombre": "Sima de las Palomas", "municipio": "CHIVA", "comarca": "La Hoya de Buñol", "provincia": "Valencia", "z": 880.0, "coord__utm": "30S XJ 800790", "x_coord": 679860.2544, "y_coord": 4378771.4645999996, "decreto": "DECRETO 65/2006, de 12 de mayo", "dogv": "5261", "fecha": "18/05/2006", "correccion": null, "id": 51.0, "nom_ficha": "sima_de_las_palomas", "x_50": 679970.0, "y_50": 4378980.0, "leg_link": "http://www.docv.gva.es/datos/2006/05/18/pdf/2006_5697.pdf", "localid": "389486", "namespace": "ES.MAGRAMA_IEPNB.PS_CDDA.", "legfoudate": "2006-05-12T00:00:00+01:00", "titledoc": "DECRETO 65/2006, de 12 de mayo", "datedoc": "2006-05-18T00:00:00+01:00", "urldoc": "http://www.docv.gva.es/datos/2006/05/18/pdf/2006_5697.pdf", "desigschem": "IUCN", "designatio": "Cave", "percentage": "100", "language": "spa", "namestatus": "oficial", "nativeness": "unknown", "pronunciat": "unknown", "sourcename": "DOCV", "text": "Sima de las Palomas", "script": "latn", "siteprotec": "natureConservation", "designat_1": "http://inspire.ec.europa.eu/codelist/IUCNDesignationValue/", "datedoc_co": "http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_DateTypeCode", "datedoc__1": "publication", "desigsch_1": "http://inspire.ec.europa.eu/codelist/DesignationValue", "versionid": "version_01" }, "geometry": { "type": "Point", "coordinates": [ -0.906986699616635, 39.539782253678226 ] } }
+]
+}
